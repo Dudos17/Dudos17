@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Dudos17
-- 📫 How to reach me 
 
 <!---
 Dudos17/Dudos17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
